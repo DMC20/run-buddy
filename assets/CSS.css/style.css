@@ -24,6 +24,7 @@ header h1 {
 
 header a {
     color: #fce138;
+    text-decoration: none;
 }
 
 header nav {
@@ -139,6 +140,10 @@ section {
 .steps {
     text-align: center;
     background: #fce138;
+}
+
+.steps-div {
+    margin-bottom: 80%;
 }
 
 .section-title {
