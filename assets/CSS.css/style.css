@@ -188,22 +188,18 @@ section {
     border-color: #39a6b2;
 }
 
-.steps div {
-    margin-bottom: 80px;
-}
-
 .step h3 {
     color: #024e76;
     font-size: 46px;
     flex: 1 30%
 }
 
-.steps-text p {
+.step-text p {
     color: #39a6b2;
     font-size: 18px;
 }
 
-.steps-text h4 {
+.step-text h4 {
     font-size: 26px;
     line-height: 1.5;
     color: #024e76;
@@ -216,13 +212,13 @@ section {
     align-items: center;
 }
 
-.step-img {
-    flex: 1 12%;
-    margin-right: 20px;
-}
-
 .step-text {
     flex: 12;
+}
+
+.step-img {
+    flex: 1  12%;
+    margin-right: 20px;
 }
 
 .step-img img {
